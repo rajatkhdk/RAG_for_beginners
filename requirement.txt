@@ -7,3 +7,4 @@ python_dotenv
 sentence-transformers
 langchain-groq
 langchain-huggingface
+langchain_experimental
